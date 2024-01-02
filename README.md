@@ -1,7 +1,7 @@
 # Essential Algorithms
 Just a place for storing my favorite algorithms in C
 
-##The Algorithms are about these consepts:
+## The Algorithms are about these consepts:
 ### 1- Data Structure
 ### 2- Algorithm design
 ### 3- Machine Learning 
